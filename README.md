@@ -8,5 +8,5 @@ José Marín 🌴
 - City: Ciudad de México.
 - Career: Computer Science.
 - University: Facultad de Ciencias, UNAM.
-- Knowledge: Web development, Object-oriented development.
+- Knowledge: Web development, Object-oriented.
 - Hobbies: Gym, play videogames, watch movies.
