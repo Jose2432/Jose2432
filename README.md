@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# About me
+### About me
 
 Hi, I'm José Marín 🌴
 - City: Ciudad de México.
