@@ -9,6 +9,13 @@ Hi, I'm José Marín 🌴
 - Experience: Web development, Object-oriented.
 - Hobbies: Gym, videogames, movies.
 
+<!--
+## Find me on
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADn-372b75244/)
+-->
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose2432&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2432&theme=radical)](https://github.com/Jose2432/github-readme-stats)
