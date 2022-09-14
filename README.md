@@ -1,7 +1,3 @@
-<!--**Jose2432/Jose2432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
 ### Hi there 👋
 
 José Marín 🌴
@@ -18,3 +14,5 @@ José Marín 🌴
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jose2432&theme=algolia)](https://github.com/Jose2432/github-profile-trophy)
 
+
+#Encabezado
