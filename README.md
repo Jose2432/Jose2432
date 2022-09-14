@@ -4,7 +4,7 @@ Here are some ideas to get you started:-->
 
 ### Hi there 👋
 
-José Marín 🌴
+#José Marín 🌴
 - City: Ciudad de México.
 - Career: Computer Science.
 - University: Facultad de Ciencias, UNAM.
