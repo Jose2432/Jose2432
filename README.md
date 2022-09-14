@@ -1,11 +1,12 @@
-###### Hi there 👋
+# Hi there 👋
 
-# José Marín 🌴
+# About me
 
+- Hi, I'm José Marín 🌴
 - City: Ciudad de México.
 - Career: Computer Science.
 - University: Facultad de Ciencias, UNAM.
-- Knowledge: Web development, Object-oriented.
+- Experience: Web development, Object-oriented.
 - Hobbies: Gym, play videogames, watch movies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose2432&show_icons=true&theme=radical)
