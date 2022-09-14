@@ -1,5 +1,7 @@
 # Hi, I'm José Marín 🌴
 
+Computer Science Student
+
 ## About me
 
 - City: Ciudad de México.
