@@ -20,8 +20,6 @@ Hi, I'm José Marín 🌴
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2432&theme=radical)](https://github.com/Jose2432/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jose2432&theme=algolia)](https://github.com/Jose2432/github-profile-trophy)
-
 <!--
 **Negrita** <br>
 *Cursiva* <br>
