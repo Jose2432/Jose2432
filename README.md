@@ -16,3 +16,10 @@ José Marín 🌴
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2432&theme=radical)](https://github.com/Jose2432/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jose2432&theme=algolia)](https://github.com/Jose2432/github-profile-trophy)
+
+{
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "Eddie Jaoude",
+  "username": "eddiejaoude"
+}
