@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:-->
 
-###### Hi there 👋
+### Hi there 👋
 
 José Marín 🌴
 
