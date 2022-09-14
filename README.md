@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-José Marín 🌴
+# José Marín 🌴
 
 - City: Ciudad de México.
 - Career: Computer Science.
