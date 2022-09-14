@@ -1,4 +1,4 @@
-### Hi there 👋
+#Hola
 
 José Marín 🌴
 
@@ -15,4 +15,3 @@ José Marín 🌴
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jose2432&theme=algolia)](https://github.com/Jose2432/github-profile-trophy)
 
 
-#Encabezado
