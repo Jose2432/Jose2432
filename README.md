@@ -15,5 +15,3 @@ José Marín 🌴
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2432)](https://github.com/Jose2432/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2432&exclude_repo=github-readme-stats,Jose2432.github.io)](https://github.com/Jose2432/github-readme-stats)
