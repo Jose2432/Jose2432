@@ -15,4 +15,19 @@ Hi, I'm José Marín 🌴
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jose2432&theme=algolia)](https://github.com/Jose2432/github-profile-trophy)
 
+<!--
+**Negrita** <br>
+*Cursiva* <br>
+~~Tachado~~ <br>
+**Negrita en *cursiva*** <br>
+<sub>Superíndice</sub> <br>
+<sub>Subíndice</sub>
 
+> Este es una cita textual
+
+```
+git status
+git add
+git commit
+```
+-->
