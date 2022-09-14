@@ -1,4 +1,4 @@
-# I'm José Marín 🌴
+# Hi, I'm José Marín 🌴
 
 ## About me
 
