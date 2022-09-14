@@ -2,7 +2,7 @@
 
 # About me
 
-- Hi, I'm José Marín 🌴
+Hi, I'm José Marín 🌴
 - City: Ciudad de México.
 - Career: Computer Science.
 - University: Facultad de Ciencias, UNAM.
