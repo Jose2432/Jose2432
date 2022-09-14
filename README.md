@@ -7,7 +7,7 @@ Hi, I'm José Marín 🌴
 - Career: Computer Science.
 - University: Facultad de Ciencias, UNAM.
 - Experience: Web development, Object-oriented.
-- Hobbies: Gym, play videogames, watch movies.
+- Hobbies: Gym, videogames, movies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose2432&show_icons=true&theme=radical)
 
