@@ -4,11 +4,11 @@ Computer Science Student
 
 ## About me
 
-- City: Ciudad de México.
-- Career: Computer Science.
-- University: Facultad de Ciencias, UNAM.
-- Experience: Web development, Object-oriented.
-- Hobbies: Gym, videogames, movies.
+- City 🌆: Ciudad de México.
+- Career 🖥️: Computer Science.
+- University 🏫: Facultad de Ciencias, UNAM.
+- Skills 🎯: Web development, Object-oriented, java, xml, css, javascript, C#.
+- Hobbies 😁: Gym, videogames, movies.
 
 <!--
 ## Find me on
