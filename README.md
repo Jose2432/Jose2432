@@ -8,7 +8,7 @@ Computer Science Student
 - Career 🖥️: Computer Science.
 - University 🏫: Facultad de Ciencias, UNAM.
 - Skills 🎯: Web development, Object-oriented, java, xml, css, javascript, C#.
-- Hobbies 😁: Gym, videogames, movies.
+- Hobbies 😁: Gym, videogames, movies, music.
 
 <!--
 ## Find me on
